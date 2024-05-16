@@ -36,7 +36,8 @@ body {
     font-size: 18px;
     background: transparent;
     border-width: 2px;
-    
+    border-color: #ffffff;
+    padding: 10px;
 }
 
 #buttons-container {
